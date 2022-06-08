@@ -1,0 +1,35 @@
+{
+    "books": [{
+            "id": 0,
+            "name": "Angular",
+            "price": 59.90,
+            "quantity": 20,
+            "category": "Educação",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
+        },
+        {
+            "id": 1,
+            "name": "React",
+            "price": 49.90,
+            "quantity": 10,
+            "category": "Educação",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png"
+        },
+        {
+            "id": 2,
+            "name": "CRUD",
+            "price": 39.90,
+            "quantity": 25,
+            "category": "Tecnologia",
+            "img": "https://www.luiztools.com.br/wp-content/uploads/2017/07/CRUD.png"
+        },
+        {
+            "id": 3,
+            "name": "Javascript",
+            "price": 149.90,
+            "quantity": 5,
+            "category": "Tecnologia",
+            "img": "https://pcodinomebzero.neocities.org/Imagens/javascript1.png"
+        }
+    ]
+}
